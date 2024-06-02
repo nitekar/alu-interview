@@ -16,5 +16,3 @@ def minOperations(n):
         else:
             x += 1
     return result
-
-c
